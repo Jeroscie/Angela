@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+       .container {
+            width: 80%;
+            margin: 20px auto;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .top-links {
+            margin-bottom: 20px;
+        }
+
+        .top-link {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .top-link:hover {
+            text-decoration: underline;
+            color: blue;
+        }
+        body {
+            margin-bottom: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">PRODUCT LIST</div>
+        <div class="top-links">
+            <a href="/index.html" class="top-link">T-Shirts</a>
+            <a href="/MakeUps/index.html" class="top-link">Make-up</a>
+            <a href="#" class="top-link">Underwear</a>
+        </div>
+        <div class="listProduct">
+
+        </div>
+    </div>
+    <script>
+        let products = null;
+        fetch('products.json')
+            .then(response => response.json())
+            .then(data => {
+                products = data;
+                addDataToHTML();
+        })
+
+        function addDataToHTML(){
+        let listProductHTML = document.querySelector('.listProduct');
+        if(products != null) 
+        {
+            products.forEach(product => {
+                let newProduct = document.createElement('a');
+                newProduct.href = 'detail.html?id=' + product.id;
+                newProduct.classList.add('item');
+                newProduct.innerHTML = 
+                `<img src="${product.image}" alt="">
+                <h2>${product.name}</h2>`;
+                listProductHTML.appendChild(newProduct);
+
+            });
+        }
+    }
+
+    </script>
+</body>
+<center><a href="/aboutus.html" class="top-link">About us</a>
+    <a href="https://www.facebook.com/genethebottle" class="top-link">Contact us</a></center>
+</html>

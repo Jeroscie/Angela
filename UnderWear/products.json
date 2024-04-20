@@ -1,0 +1,59 @@
+[ 
+    {
+        "id": 2,
+        "name":" Mack Weldon AIRKNITx Boxer Brief",
+        "price": 250,
+        "image": "img/2.png",
+        "description": "Elevate your comfort with the Mack Weldon AIRKNITx Boxer Brief. Engineered for maximum breathability and support, these boxer briefs are crafted from advanced AIRKNITx fabric that wicks away moisture and keeps you cool all day long. The ergonomic design and flatlock seams ensure a snug yet flexible fit that moves with you. Whether you're hitting the gym or lounging at home, the Mack Weldon AIRKNITx Boxer Brief offers superior comfort and performance. Upgrade your underwear collection with this innovative and stylish essential."
+    },
+    {
+        "id": 3,
+        "name":"Mack Weldon AIRKNITx Boxer Brief",
+        "price": 290,
+        "image": "img/3.png",
+        "description": "Elevate your underwear game with the Mack Weldon AIRKNITx Boxer Brief. Crafted from innovative AIRKNITx fabric, these boxer briefs provide exceptional breathability and moisture-wicking properties to keep you cool and dry all day long. The ergonomic design and stretchy fabric offer a supportive yet comfortable fit that moves with your body. With features like a no-roll waistband and flatlock seams, the Mack Weldon AIRKNITx Boxer Brief ensures a secure and chafe-free experience. Experience ultimate comfort and performance with this premium underwear essential."
+    },
+    {
+        "id": 4,
+        "name":" Uniqlo AIRism Boxer Briefs",
+        "price": 200,
+        "image": "img/4.png",
+        "description": "Experience unparalleled comfort with Uniqlo AIRism Boxer Briefs. Crafted from innovative AIRism fabric, these boxer briefs offer exceptional breathability and moisture-wicking properties, keeping you cool and dry throughout the day. The lightweight and stretchy material provides a snug yet comfortable fit that moves with your body. With features like a smooth waistband and flatlock seams, Uniqlo AIRism Boxer Briefs offer a seamless and chafe-free experience. Elevate your underwear collection with this stylish and functional essential from Uniqlo."
+    },
+    {
+        "id": 5,
+        "name":" Lululemon Always in Motion Boxer (Pack of 3)",
+        "price": 300,
+        "image": "img/5.png",
+        "description": "Experience ultimate comfort and performance with the Lululemon Always in Motion Boxer (Pack of 3). Designed for active lifestyles, these boxer briefs are crafted from soft and stretchy fabric that wicks away moisture and dries quickly, keeping you comfortable and dry during workouts or everyday activities. The ergonomic design and seamless construction offer a smooth and chafe-free fit, while the breathable fabric ensures optimal ventilation. With a pack of three, you'll have plenty of comfortable and stylish options to choose from. Elevate your underwear collection with the Lululemon Always in Motion Boxer."
+    },
+    {
+        "id": 6,
+        "name":"Sunspel Stretch Cotton Trunks        ",
+        "price": 200,
+        "image": "img/6.png",
+        "description": "Elevate your underwear collection with Sunspel Stretch Cotton Trunks. Crafted from premium stretch cotton fabric, these trunks offer a comfortable and supportive fit that moves with your body. The classic design features a logo waistband for a touch of timeless style. With a smooth and breathable fabric, Sunspel Stretch Cotton Trunks provide all-day comfort and freshness. Whether you're lounging at home or out and about, these trunks offer both comfort and style."
+    },
+    {
+        "id": 7,
+        "name":"CDLP Boxer Trunk      ",
+        "price": 200,
+        "image": "img/7.png",
+        "description": "Elevate your underwear game with CDLP Boxer Trunks. Crafted from premium lyocell fabric, these boxer trunks offer a luxurious and comfortable feel against your skin. The modern design features a supportive pouch and a logo waistband for a touch of style. With a smooth and breathable fabric, CDLP Boxer Trunks provide all-day comfort and freshness. Whether you're at work or hitting the gym, these trunks offer both support and sophistication."
+    },
+    {
+        "id": 8,
+        "name":"Jockey Sport Cooling Mesh Performance Brief        ",
+        "price": 200,
+        "image": "img/8.png",
+        "description": "Stay cool and comfortable during your workouts with Jockey Sport Cooling Mesh Performance Briefs. Crafted from breathable mesh fabric, these performance briefs provide optimal ventilation and moisture-wicking properties to keep you dry and comfortable. The stretchy material and contoured pouch offer a supportive and snug fit, allowing you to move freely during any activity. With a sleek design and a logo waistband, Jockey Sport Cooling Mesh Performance Briefs combine style and functionality for the active individual."
+    },
+    {
+        "id": 1,
+        "name":" Calvin Klein Classic Multipack Boxer Briefs",
+        "price": 200,
+        "image": "img/1.png",
+        "description": "Elevate your underwear collection with the Calvin Klein Classic Multipack Boxer Briefs. Crafted from soft and stretchy cotton blend fabric, these boxer briefs offer all-day comfort and support. The classic design features a signature Calvin Klein logo waistband for a touch of timeless style. With a snug yet flexible fit, these boxer briefs provide coverage and freedom of movement. Stock up on essentials with the Calvin Klein Classic Multipack Boxer Briefs, perfect for everyday wear."
+    }
+
+]

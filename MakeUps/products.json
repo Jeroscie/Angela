@@ -1,0 +1,59 @@
+[ 
+    {
+        "id": 2,
+        "name":" Lancome Lash Idole Lash Lifting Volumizing",
+        "price": 250,
+        "image": "img/2.png",
+        "description": "Experience the ultimate lash transformation with Liquid Lash™ Extensions Mascara. This innovative formula delivers long, fluttery lashes that look like extensions without the hassle. The brush coats each lash from root to tip, adding length and volume for a dramatic yet natural look. Say goodbye to clumps and hello to beautifully defined lashes that last all day. Elevate your lash game with Liquid Lash™ Extensions Mascara."
+    },
+    {
+        "id": 3,
+        "name":"CoverGirl Exhibitionist Mascara",
+        "price": 290,
+        "image": "img/3.png",
+        "description": "Elevate your lashes to new heights with CoverGirl Exhibitionist Mascara. This mascara features a volumizing formula that adds thickness and fullness to your lashes, making them appear bold and beautiful. The specially designed brush separates and coats each lash evenly, creating a dramatic and eye-catching look. Whether you're going for a natural everyday look or a glamorous evening style, CoverGirl Exhibitionist Mascara delivers long-lasting, smudge-proof wear for all-day confidence."
+    },
+    {
+        "id": 4,
+        "name":" Dior Diorshow  Mascara",
+        "price": 200,
+        "image": "img/4.png",
+        "description": "Elevate your lashes to iconic status with Dior Diorshow Mascara. This legendary mascara delivers bold volume, length, and curl for an instant lash transformation. The innovative formula is enriched with microfibers that cling to lashes, adding dramatic length and fullness without clumping. The oversized brush coats each lash from root to tip, ensuring every lash is lifted and defined. Get ready to unleash your inner diva with Dior Diorshow Mascara, a must-have for luxurious lashes."
+    },
+    {
+        "id": 5,
+        "name":" Chanel Le Volume de Chanel Mascara",
+        "price": 300,
+        "image": "img/5.png",
+        "description": "Elevate your lash game to luxurious heights with Chanel Le Volume de Chanel Mascara. This iconic mascara delivers intense volume and dramatic curl for show-stopping lashes. The rich, creamy formula coats each lash with precision, adding thickness and length without clumping or smudging. The unique brush design lifts and separates lashes, ensuring maximum impact and a wide-eyed look. Whether you're going for a natural everyday style or a glamorous evening look, Chanel Le Volume de Chanel Mascara enhances your lashes with long-lasting wear and unparalleled elegance."
+    },
+    {
+        "id": 6,
+        "name":"Ere Perez Avocado Waterproof Mascara",
+        "price": 200,
+        "image": "img/6.png",
+        "description": "Discover the perfect blend of natural beauty and long-lasting wear with Ere Perez Avocado Waterproof Mascara. Formulated with nourishing avocado oil, this mascara not only enhances your lashes but also conditions them for optimal health. The waterproof formula ensures smudge-proof and flake-free wear, making it ideal for all-day wear, even in challenging conditions. The specially designed brush coats each lash from root to tip, adding volume, length, and definition for a stunning, wide-eyed look. Say goodbye to panda eyes and hello to beautifully lifted lashes with Ere Perez Avocado Waterproof Mascara."
+    },
+    {
+        "id": 7,
+        "name":"Extended Play Gigablack Lash Mascara",
+        "price": 200,
+        "image": "img/7.png",
+        "description": "Get ready for long-lasting, intense black lashes with Extended Play Gigablack Lash Mascara. This mascara from MAC Cosmetics is designed to deliver bold volume and length with its deep black pigment and long-wearing formula. The lightweight gel formula coats each lash evenly, providing a natural yet impactful look that lasts all day without smudging or flaking. The slim brush with microfibers grabs onto each lash, separating and defining them for a wide-eyed effect. Whether you're going for a subtle daytime look or a dramatic evening style, Extended Play Gigablack Lash Mascara is your go-to for effortlessly stunning lashes."
+    },
+    {
+        "id": 8,
+        "name":"Em Cosmetics Pick Me Up Volume + Length Mascara",
+        "price": 200,
+        "image": "img/8.png",
+        "description": "Embrace voluminous and lengthened lashes with Em Cosmetics Pick Me Up Volume + Length Mascara. This mascara is your go-to for a bold, wide-eyed look that lasts all day. The innovative formula is infused with nourishing ingredients to condition and strengthen your lashes while providing intense volume and length. The unique brush design coats each lash from root to tip, lifting and separating for maximum impact. Say hello to fluttery, defined lashes with Em Cosmetics Pick Me Up Volume + Length Mascara, your secret weapon for captivating eyes."
+    },
+    {
+        "id": 1,
+        "name":" Thrive Causemetics Liquid Lash Extensions Mascara",
+        "price": 200,
+        "image": "img/1.png",
+        "description": "Experience the power of long, voluminous lashes with Thrive Causemetics Liquid Lash Extensions Mascara. This revolutionary mascara features a buildable formula that lengthens, lifts, and defines each lash for a stunning, wide-eyed look. Infused with plant-based ingredients and nourishing peptides, it not only enhances your lashes but also promotes their health and strength. The unique wand design coats every lash evenly, from root to tip, ensuring maximum impact with every application. Say goodbye to smudging and flaking and hello to beautiful, fluttery lashes that last all day. With Thrive Causemetics Liquid Lash Extensions Mascara, your lashes will thrive like never before."
+    }
+
+]
